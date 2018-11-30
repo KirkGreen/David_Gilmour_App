@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { Route, Switch } from 'react-router-dom';
-import ReactDOM from 'react-dom';
 
 import Home from "./components/Home/home";
+import Layout from "./hoc/Layout/layout";
 
 
 class Routes extends Component {
@@ -10,10 +10,13 @@ class Routes extends Component {
     render(){
         return(
 
-            <Switch>
-                <Route path="/" exact component={Home}/>
+            <Layout>
+                <Switch>
 
-            </Switch>
+                    <Route path="/" exact component={Home}/>
+
+                </Switch>
+            </Layout>
 
         )
     }
