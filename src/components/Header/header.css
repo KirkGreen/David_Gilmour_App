@@ -9,6 +9,7 @@
 
 .logo {
     flex-grow: 1;
+    padding-top: 4px ;
 }
 
 .logo img {

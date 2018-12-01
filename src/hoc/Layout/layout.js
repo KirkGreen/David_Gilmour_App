@@ -9,11 +9,13 @@ class Layout extends Component {
         showNav:false
     };
 
-    toggleSidenav = (action) =>{
+
+    toggleSidenav = (action) => {
         this.setState({
             showNav:action
         })
     };
+
 
     render(){
         return(
