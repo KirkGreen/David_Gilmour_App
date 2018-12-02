@@ -1,0 +1,113 @@
+{
+  "articles":[
+    {
+      "id":1,
+      "title": "Royal Albert Hall: Night Five",
+      "image":"David-Gilmour-1.jpg",
+      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
+      "date": "Saturday 1st October 2016"
+    },
+    {
+      "id":2,
+      "title": "Royal Albert Hall: Night Five",
+      "image":"David-Gilmour-2.jpg",
+      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
+      "date": "Friday 30th September 2016"
+    },
+    {
+      "id":3,
+      "title": "Royal Albert Hall: Night Five",
+      "image":"David-Gilmour-3.jpg",
+      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
+      "date": "Monday 26th September 2016"
+    },
+    {
+      "id":4,
+      "title": "Tienen: Night One",
+      "image":"David-Gilmour-4.jpg",
+      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
+      "date": "Friday 29th July 2016"
+    },{
+      "id":5,
+      "title": "Tienen: Night One",
+      "image":"David-Gilmour-5.jpg",
+      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
+      "date": "Thursday 28th July 2016"
+    }
+  ],
+  "discography":[
+    {
+      "id":1,
+      "title": "David Gilmour",
+      "image": "David-Gilmour-David-Gilmour.jpg",
+      "date": "25/05/1978 "
+    },
+    {
+      "id":2,
+      "title": "About Face ",
+      "image": "David-Gilmour-About-Face .jpg",
+      "date": "27/03/1984 "
+    },
+    {
+      "id":3,
+      "title": "On an Island ",
+      "image": "David-Gilmour-On-an-Island.jpg",
+      "date": "06/03/2006 "
+    },
+    {
+      "id":4,
+      "title": "Rattle That Lock",
+      "image": "David-Gilmour-Rattle-That-Lock.jpg",
+      "date": "18/09/2015 "
+    },
+    {
+      "id":5,
+      "title": "Live at Pompeii",
+      "image": "David-Gilmour-Rattle-That-Lock.jpg",
+      "date": "18/09/2015 "
+    },
+    {
+      "id":6,
+      "title": "Live at Gdansk",
+      "image": "David-Gilmour-Rattle-That-Lock.jpg",
+      "date": "18/09/2015 "
+    }
+  ],
+  "videos":[
+    {
+      "id":1,
+      "title": "David Gilmour - Rattle That Lock (Official Music Video)",
+      "image": "",
+      "url":"https://www.youtube.com/watch?v=L1v7hXEQhsQ",
+      "albums":"Rattle That Lock"
+    },
+    {
+      "id":2,
+      "title": "David Gilmour - In Any Tongue (Official Music Video)",
+      "image": "",
+      "url":"https://www.youtube.com/watch?v=foVY5kLqp6w",
+      "albums":"Rattle That Lock"
+    },
+    {
+      "id":3,
+      "title": "David Gilmour - The Girl In The Yellow Dress (Official Music Video)",
+      "image": "",
+      "url":"https://www.youtube.com/watch?v=7PwQrEbEnrM",
+      "albums":"Rattle That Lock"
+    },
+    {
+      "id":4,
+      "title": "David Gilmour - Comfortably Numb (featuring Benedict Cumberbatch)",
+      "image": "",
+      "url":"https://www.youtube.com/watch?v=FaaoTvEdKtA",
+      "albums":"The Wall"
+    },
+    {
+      "id":5,
+      "title": "David Gilmour - On An Island (Official Music Video)",
+      "image": "",
+      "url":"https://www.youtube.com/watch?v=ooPTpZPu7to&list=PLnetLV0w-dq-Akkdm_j-fmORUSllC5NxI&t=0s&index=17",
+      "albums":"On An Island"
+    }
+  ]
+}
