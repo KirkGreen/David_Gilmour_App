@@ -2,75 +2,206 @@
   "articles":[
     {
       "id":1,
-      "title": "Royal Albert Hall: Night Five",
+      "title": "Vote for Rattle That Lock Art",
       "image":"David-Gilmour-1.jpg",
-      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
-      "date": "Saturday 1st October 2016"
+      "body":"To coincide with this weekend's National Album Day in the UK, a competition has been launched to nominate the best album sleeve from the past 70 years, including David Gilmour's Rattle That Lock. Participants must click on their three favourite sleeves from the 70 featured on the artvinyl.com website. ",
+      "date": "Wednesday 10th October 2018"
     },
     {
       "id":2,
-      "title": "Royal Albert Hall: Night Five",
+      "title": "Awards For 'Live At Pompeii'",
       "image":"David-Gilmour-2.jpg",
+      "body":"The David Gilmour Live At Pompeii cinema event has been awarded a Silver Medal at this year's Event Cinema Association (ECA) Awards in London. The awards celebrate event cinema, with the goal of raising the profile and understanding of the sector, bestowing medals to celebrate different levels of achievement. Live At Pompeii, with worldwide admissions of nearly 400,000, was awarded a Silver Medal.Trafalgar Releasing's Director of Distribution Alice De Rosa said, 'It is an honour to be recognised today by the ECA, on the first anniversary of the new company, with box office achievement awards [including] David Gilmour Live At Pompeii'.",
+      "date": "Saturday 10th February 2018"
+    },
+    {
+      "id":3,
+      "title": "David is Front Row this weekend",
+      "image":"David-Gilmour-3.jpg",
+      "body":"The UK's BBC Two television show Front Row is being presented by Cambridge classicist Mary Beard on Saturday 28th October; during the show Mary will be speaking to David about his recent film Live At Pompeii, which documents the first ever rock concert for an audience in the historic site. David will then perform A Boat Lies Waiting live in the studio.",
+      "date": "Monday 23rd October 2017"
+    },
+    {
+      "id":4,
+      "title": "Live At Pompeii Tops Charts",
+      "image":"David-Gilmour-4.jpg",
+      "body":"David's album Live At Pompeii has performed very well in the UK and International charts, even taking into account that DVD and Blu-ray sales do not contribute to the CD charts and vice versa. It hit the Top 5 in 11 countries, two of which equalled the chart peak of David's previous album Rattle That Lock: Number 1 in Italy and Number 2 in Germany.In the UK the album charted at Number 3, and other International positions included: Number 1 in The Czech Republic and Italy; Number 2 in The Netherlands, New Zealand, Portugal and Germany; Number 3 in Sweden and Belgium; Number 4 in Norway and Switzerland; Number 5 in France; Number 6 in Spain, Austria and Hungary; Number 7 in Canada and Poland; Number 9 in Finland; and Number 12 in Sweden. In the US, Live At Pompeii was Number 4 Rock Album and Number 45 for the Billboard Top Albums.",
+      "date": "Thursday 19th October 2017"
+    },{
+      "id":5,
+      "title": "One Of These Days available as an Instant Grat",
+      "image":"David-Gilmour-5.jpg",
+      "body":"An iTunes audio Instant Grat is a way for consumers to get a track in advance of an album release, which acts as a 'deposit' against a subsequent purchase of the digital version of the album, slotting into the full downloaded file. One Of These Days has just been made available as the second Instant Grat from David's forthcoming Live At Pompeii album, and the video clip can be seen above.Directed by Gavin Elder, it is included in the worldwide one-off Live At Pompeii cinema feature performance on Wednesday 13th September, as well as on the Blu-ray, DVD, and Deluxe 4-disc versions, which are all available from Friday 29th September. The audio and audio-visual formats all contain at least 148 minutes of music; for more details, please go to davidgilmour.com/pompeii or davidgilmourcinematickets.co.uk.",
+      "date": "Friday 8th September 2017"
+    },
+    {
+      "id":6,
+      "title": "And the winner is . . .",
+      "image":"David-Gilmour-6.jpg",
+      "body":"David Gilmour won Concert of the Year at yesterday's LEA awards in Germany for the show at Schönbrunn Palace, Vienna, on June 28th 2016, ahead of fellow nominees Adele, Andreas Gabalier, Iron Maiden, and Yello.More than 500 live productions were screened in the year 2016 by PRG LEA's jury, composed of renowned music journalists, radio broadcasters and cultural managers. It also assessed the outstanding achievements of promoters, artisans, booking agencies and tour operators.Barracuda Music promoted both of David's shows at the Vienna venue.",
+      "date": "Wednesday 5th April 2017"
+    },
+    {
+      "id":7,
+      "title": "Royal Albert Hall: Night Five",
+      "image":"David-Gilmour-7.jpg",
       "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
       "date": "Friday 30th September 2016"
     },
     {
-      "id":3,
-      "title": "Royal Albert Hall: Night Five",
-      "image":"David-Gilmour-3.jpg",
-      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
-      "date": "Monday 26th September 2016"
+      "id":8,
+      "title": "Rattle That Lock Tour Continues",
+      "image":"David-Gilmour-8.jpg",
+      "body":"The summer leg of David Gilmour's Rattle That Lock world tour starts on Saturday 25th June with a very special show in Wrocław, Poland, where David and his band will perform with a 30-piece orchestra conducted by Zbigniew Preisner in the city's Freedom Square, and will then visit Vienna, Rome, Pompeii, Verona, Stuttgart, Paris, Wiesbaden, Nîmes, Besançon, and Tienen in Belgium before ending with a four-night stand at London's Royal Albert Hall.The band will be: Guy Pratt, bass guitar; Steve DiStanislao, drums; Chester Kamen, guitar; Greg Phillinganes, keyboards; Chuck Leavell, keyboards; João Mello, saxophone; and Louise Marshall, Lucita Jules and Bryan Chambers on vocals.",
+      "date": "Friday 20th May 2016"
     },
     {
-      "id":4,
-      "title": "Tienen: Night One",
-      "image":"David-Gilmour-4.jpg",
-      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
+      "id":9,
+      "title": "David to play Rome's Circus Maximus, 2 & 3 July 2016",
+      "image":"David-Gilmour-9.jpg",
+      "body":"David has announced that he will play the first ever seated concert at Rome's Circus Maximus on 2 & 3 July. Tickets will be priced from €60 (subject to booking fees) and will go on sale on Thursday 7th April via davidgilmour.com at 10.00hrs Central European Time. Please note that tickets will be limited to 4 per person.The Circus Maximus, a World Heritage Site, was first constructed in the 6th century BC as a chariot race track, and is used today as a public park. David's concert there as part of the Rattle That Lock tour continues his aim to play beautiful and historic venues which give fans a once in a lifetime experience. Following the two Rome concerts, David will head for Pompeii, where his two concerts in its world famous Amphitheatre will be the first to take place on that site with an audience.",
       "date": "Friday 29th July 2016"
-    },{
-      "id":5,
-      "title": "Tienen: Night One",
-      "image":"David-Gilmour-5.jpg",
-      "body":"Last night's setlist was...First Set: 5 A.M.; Rattle That Lock; Faces Of Stone; What Do You Want From Me; The Blue; The Great Gig In The Sky; A Boat Lies Waiting; Wish You Were Here; Money; In Any Tongue; High Hopes.Second Set: One Of These Days; Shine On You Crazy Diamond (Parts 1-5); Fat Old Sun; Coming Back To Life; On An Island; The Girl In The Yellow Dress; Today; Sorrow; Run Like Hell.Encores: Time/Breathe (reprise); Comfortably Numb.",
-      "date": "Thursday 28th July 2016"
+    },
+    {
+      "id":10,
+      "title": "Jimmy Kimmel Live",
+      "image":"David-Gilmour-10.jpg",
+      "body":"Yesterday, David and the band recorded a performance for ABC's Jimmy Kimmel Live, one of the US's highest-rated talk shows. The band played Rattle That Lock, In Any Tongue, High Hopes, Wish You Were Here, and Today. David's last US TV appearance was on Jay Leno, 10 years ago. Yesterday's open-air stage was in a parking lot at the back of the TV studios, and had space for an audience of 1,500. Other guests on the show were Ashton Kutcher and Trailer Park Boys.The show aired last night with Rattle That Lock, which is available online, as is Wish You Were Here. Today, In Any Tongue and High Hopes will be broadcast in June.The band left sunny LA today, after playing three concerts to rave reviews; next stop is Toronto.",
+      "date": "Tuesday 29th March 2016"
+    },
+    {
+      "id":11,
+      "title": "Tickets for Pompeii Roman Amphitheatre July 7, 8",
+      "image":"David-Gilmour-11.jpg",
+      "body":"Click the link below from 1.00pm Central European Time today to access ticket sales.Restricted to a maximum of two tickets per person – one show only (not both).Price: €300 per ticket + 15% booking fee.On purchase, each buyer will receive a receipt with his or her name. On day of show, purchaser must present printed receipt to the venue Box Office at main venue site, with photographic ID and the credit card used for purchase.If two tickets are bought, additional person must also be present at the Box Office. Box Office opening hours: 10am-8pm on each show day.Each ticket holder will be issued with a non-transferable wristband and their ticket: both are required for admission.",
+      "date": "Tuesday 22nd March 2016"
+    },
+    {
+      "id":12,
+      "title": "Return to the Royal Albert Hall – 4 Shows in Sept 2016",
+      "image":"David-Gilmour-12.jpg",
+      "body":"After the resounding success of this year's concerts at the Albert Hall, David has announced that he will return there to play four more concerts in September 2016. Tickets for the dates, on September 25, 28, 29 and 30, will be on sale from 10.00am UK time on Friday 4th December. Prices are the same as before, and there is a ticket purchase limit of four per person, per household, which will apply across all four shows.As previously, the ticket holder's name will be printed on the ticket, and photo ID checks in place to confirm customer identity, to minimise the re-sale of tickets on the secondary market.Tickets for all shows will be available from the Royal Albert Hall Box Office, seetickets.com, ticketmaster.co.uk, and stargreen.com.",
+      "date": "Wednesday 2nd December 2015"
+    },
+    {
+      "id":13,
+      "title": "David and Polly on US NPR",
+      "image":"David-Gilmour-13.jpg",
+      "body":"David and Polly can be seen in discussion with NPR's Jonathan Dick on The Record, part of the NPR Website, from 10am East Coast time today. The site will also feature the promotional film for The Girl In The Yellow Dress, with animation by Los Angeles-based filmmaker Danny Madden. Danny is profiled in a special documentary directed by Aubrey Powell, available in the Deluxe box version of the Rattle That Lock album, which also includes the animated film. Click here to link to NPR.",
+      "date": "Wednesday 7th October 2015"
+    },
+    {
+      "id":14,
+      "title": "Album Chart Update",
+      "image":"David-Gilmour-14.jpg",
+      "body":"More International countries have published their charts, so we can confirm that the Rattle That Lock album has now topped the album chart in 11 countries, as well as reaching No. 1 in the iTunes charts of 16 countries. The latest list includes: #1 in the UK, France, Italy, Norway, Sweden, Denmark, Belgium, Portugal, Poland, Turkey, and New Zealand; #2: Germany, Australia, Ireland, Holland, Switzerland, Croatia, Austria, Canada; #3: Finland; #4: Japan; and #5: the USA, and Greece.The album also peaked at #1 in the iTunes charts of Chile, Italy, Bulgaria, Brazil, Belgium, Denmark, Norway, Egypt, Bolivia, Luxembourg, Argentina, the Czech Republic, Latvia, Hungary, Lithuania, and Slovakia.",
+      "date": "Thursday 1st October 2015"
+    },
+    {
+      "id":15,
+      "title": "Polly and David Unlock Details at Literary Festival",
+      "image":"David-Gilmour-15.jpg",
+      "body":"Polly Samson and David Gilmour were special guests at the Borris House Festival of Writing and Ideas in County Carlow, Ireland, on June 6th. In a session entitled 'Louder Than Words', they touched on lyric writing and the nature of creativity, amongst other topics.As well as discussion on the process of writing lyrics for both On An Island and The Division Bell, Polly expanded on the collaborative nature of her writing for David and Pink Floyd, and how rewarding it has proved to be. Questions from the floor inevitably centred on the forthcoming album, and alongside praise for contributors and album co-producer Phil Manzanera, David and Polly revealed that the title will be Rattle That Lock.",
+      "date": "Sunday 7th June 2015"
+    },
+    {
+      "id":16,
+      "title": "Change of Venue",
+      "image":"David-Gilmour-16.jpg",
+      "body":"Just announced by the local organisers in Firenze (Florence), Italy, is the move of a number of summer concerts due to be held at Teatro Le Mulina, including David Gilmour's show on Tuesday 15th September. The concerts have been moved to the nearby Ippodromo del Visarno.The revised venue is sited a few hundred metres from Mulina and closer to various public transport stops; tickets already purchased remain valid for the new venue.",
+      "date": "Thursday 4th June 2015"
+    },
+    {
+      "id":17,
+      "title": "UPDATE – New UK Shows Added: Oct 02, 03",
+      "image":"David-Gilmour-17.jpg",
+      "body":"The three UK concerts at London's Royal Albert Hall have been an instant sell-out, so two ADDITIONAL UK SHOWS have been added – on Friday 2nd and Saturday 3rd October. Tickets available from 10.00am today, 6th March. One unfortunate side effect of the shows' popularity is that tickets are starting to appear on unofficial sites.Please note that anyone purchasing a ticket from any unauthorised site or seller will not be granted admission. The restrictions on ticket sales, including named purchasers and photo ID required for entry, are designed to restrict ticket sales to genuine fans and not those seeking to profit from resale. Official outlets are: the Royal Albert Hall box office, seetickets.com, ticketmaster.co.uk, eventim.co.uk, and stargreen.com.",
+      "date": "Thursday 4th June 2015"
     }
   ],
   "discography":[
     {
       "id":1,
-      "title": "David Gilmour",
-      "image": "David-Gilmour-David-Gilmour.jpg",
-      "date": "25/05/1978 "
+      "title": "DAVID GILMOUR",
+      "image": "DavidGilmour.jpg",
+      "date": "25/05/1978",
+      "tracks":[
+        "1. Mihalis",
+        "2. There's No Way Out Of Here",
+        "3. Cry From The Street",
+        "4. So Far Away",
+        "5. Short And Sweet",
+        "6. Raise My Rent",
+        "7. No Way",
+        "8. Deafinitely",
+        "9. I Can't Breathe Anymore"
+      ]
     },
     {
       "id":2,
-      "title": "About Face ",
-      "image": "David-Gilmour-About-Face .jpg",
-      "date": "27/03/1984 "
+      "title": "ABOUT FACE",
+      "image": "AboutFace.jpg",
+      "date": "27/03/1984",
+      "tracks":[
+        "1. Until We Sleep",
+        "2. Murder",
+        "3. Love On The Air",
+        "4. Blue Light",
+        "5. Out Of The Blue",
+        "6. All Lovers Are Deranged",
+        "7. You Know I'm Right",
+        "8. Cruise",
+        "9. Let's Get Metaphysical",
+        "10. Where We Start"
+      ]
     },
     {
       "id":3,
-      "title": "On an Island ",
-      "image": "David-Gilmour-On-an-Island.jpg",
-      "date": "06/03/2006 "
+      "title": "ON AN ISLAND",
+      "image": "OnAnIsland.jpg",
+      "date": "06/03/2006",
+      "tracks":[
+        "1. Castellorizon",
+        "2. On An Island",
+        "3. The Blue",
+        "4. Take A Breath",
+        "5. Red Sky At Night",
+        "6. This Heaven",
+        "7. Then I Close My Eyes",
+        "8. Smile",
+        "9. A Pocketful Of Stones",
+        "10. Near The End"
+      ]
     },
     {
       "id":4,
-      "title": "Rattle That Lock",
-      "image": "David-Gilmour-Rattle-That-Lock.jpg",
-      "date": "18/09/2015 "
+      "title": "RATTLE THAT LOCK",
+      "image": "RattleThatLock.jpg",
+      "date": "18/09/2015",
+      "tracks":[
+        "1. 5 A.M.",
+        "2. Rattle That Lock",
+        "3. Faces Of Stone",
+        "4. A Boat Lies Waiting",
+        "5. Dancing Right In Front Of Me",
+        "6. In Any Tongue",
+        "7. Beauty",
+        "8. The Girl In The Yellow Dress",
+        "9. Today",
+        "10. And Then..."
+      ]
     },
     {
       "id":5,
-      "title": "Live at Pompeii",
-      "image": "David-Gilmour-Rattle-That-Lock.jpg",
-      "date": "18/09/2015 "
+      "title": "LIVE AT POMPEII",
+      "image": "Pompeii.jpg",
+      "date": "29/09/2017 "
     },
     {
       "id":6,
-      "title": "Live at Gdansk",
-      "image": "David-Gilmour-Rattle-That-Lock.jpg",
-      "date": "18/09/2015 "
+      "title": "LIVE IN GDAŃSK",
+      "image": "Gdansk.jpg",
+      "date": "22/09/2008"
     }
   ],
   "videos":[

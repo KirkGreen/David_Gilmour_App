@@ -10,7 +10,7 @@ class NewsSlider extends Component {
     };
 
     componentWillMount(){
-        axios.get(`http://localhost:3000/articles? start=0& end=4`)
+        axios.get(`http://localhost:3000/articles?_start=${this.props.start}&_end=${this.props.amount}`)
             .then(response => {
                 this.setState({
                     news:response.data
@@ -21,10 +21,9 @@ class NewsSlider extends Component {
 
 
     render(){
-        console.log(this.state.news);
         return(
             <div>
-                <SliderTemplates data={this.state.news} type="featured"/>
+                <SliderTemplates data={this.state.news} type={this.props.type} settings={this.props.settings}/>
             </div>
         )
     }
