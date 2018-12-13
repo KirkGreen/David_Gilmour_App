@@ -208,36 +208,41 @@
     {
       "id":1,
       "title": "David Gilmour - Rattle That Lock (Official Music Video)",
-      "image": "",
-      "url":"https://www.youtube.com/watch?v=L1v7hXEQhsQ",
+      "image": "David-Gilmour-12.jpg",
+      "date": "31/07/2015",
+      "url":"L1v7hXEQhsQ",
       "albums":"Rattle That Lock"
     },
     {
       "id":2,
       "title": "David Gilmour - In Any Tongue (Official Music Video)",
-      "image": "",
-      "url":"https://www.youtube.com/watch?v=foVY5kLqp6w",
+      "image": "David-Gilmour-11.jpg",
+      "date": "05/03/2016",
+      "url":"foVY5kLqp6w",
       "albums":"Rattle That Lock"
     },
     {
       "id":3,
       "title": "David Gilmour - The Girl In The Yellow Dress (Official Music Video)",
-      "image": "",
-      "url":"https://www.youtube.com/watch?v=7PwQrEbEnrM",
+      "image": "David-Gilmour-7.jpg",
+      "date": "07/10/2015",
+      "url":"7PwQrEbEnrM",
       "albums":"Rattle That Lock"
     },
     {
       "id":4,
       "title": "David Gilmour - Comfortably Numb (featuring Benedict Cumberbatch)",
-      "image": "",
-      "url":"https://www.youtube.com/watch?v=FaaoTvEdKtA",
+      "image": "David-Gilmour-9.jpg",
+      "date": "29/09/2016",
+      "url":"FaaoTvEdKtA",
       "albums":"The Wall"
     },
     {
       "id":5,
       "title": "David Gilmour - On An Island (Official Music Video)",
-      "image": "",
-      "url":"https://www.youtube.com/watch?v=ooPTpZPu7to&list=PLnetLV0w-dq-Akkdm_j-fmORUSllC5NxI&t=0s&index=17",
+      "image": "David-Gilmour-8.jpg",
+      "date": "27/02/2010",
+      "url":"9hUjqL8YX30",
       "albums":"On An Island"
     }
   ]

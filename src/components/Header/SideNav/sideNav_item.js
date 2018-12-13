@@ -18,11 +18,6 @@ const SideNavItem = () => {
             link: '/news'
         },
         {
-            icon: 'folder-o',
-            text: 'Discography',
-            link: '/Discography'
-        },
-        {
             icon: 'play',
             text: 'Videos',
             link: '/videos'
