@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import axios from 'axios';
-import { URL } from "../../../../config";
+import {firebaseDB, firebaseLooper} from "../../../../firebase";
 
 import '../../articles.css';
 
@@ -13,11 +12,14 @@ class NewsArticles extends Component {
     };
 
     componentWillMount(){
-        axios.get(`${URL}/articles?id=${this.props.match.params.id}`)
-            .then( response => {
+        firebaseDB.ref(`articles/${this.props.match.params.id}`).orderByChild('id').once('value')
+            .then((snapshot)=>{
+                let article = snapshot.val();
                 this.setState({
-                    article:response.data[0]
+                    article
                 })
+
+
             })
     }
 

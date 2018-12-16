@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { Link } from 'react-router-dom';
-import axios from 'axios';
+import {firebaseArticles, firebaseLooper} from "../../../firebase";
 
-import { URL } from '../../../config';
 import "./newsList.css";
 
 import Button from "../Buttons/buttons"
@@ -23,19 +22,24 @@ class NewsList extends Component {
     }
 
     request = (start,end) => {
-        axios.get(`${URL}/articles?_start=${start}&_end=${end}`)
-            .then( response => {
+
+        firebaseArticles.orderByChild("id").startAt(start).endAt(end).once("value")
+            .then((snapshot)=>{
+                const articles = firebaseLooper(snapshot);
                 this.setState({
-                    items:[...this.state.items,...response.data],
+                    items:[...this.state.items,...articles],
                     start,
                     end
                 })
+            })
+            .catch(e=>{
+                console.log(e)
             })
     };
 
     loadMore = () => {
         let end = this.state.end + this.state.amount;
-        this.request(this.state.end,end)
+        this.request(this.state.end + 1,end)
     };
 
     renderNews = (type) => {

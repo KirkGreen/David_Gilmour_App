@@ -1,8 +1,7 @@
 import React,{ Component } from "react";
 import './videosList.css';
-import axios from 'axios';
+import {firebaseVideos, firebaseLooper, firebaseArticles} from "../../../firebase";
 
-import { URL } from "../../../config";
 import Button from "../Buttons/buttons";
 import VideosTemplate from './VideosTamplate'
 
@@ -20,14 +19,18 @@ class VideosList extends Component{
     }
 
     request = (start, end) => {
-        axios.get(`${URL}/videos?_start=${start}&_end=${end}`)
-            .then(response => {
-                this.setState({
-                    videos:[...this.state.videos,...response.data],
-                    start,
-                    end
 
-                })
+        firebaseVideos.orderByChild("id").startAt(start).endAt(end).once("value")
+            .then((snapshot)=>{
+            const videos = firebaseLooper(snapshot);
+            this.setState({
+                videos:[...this.state.videos,...videos],
+                start,
+                end
+            })
+        })
+            .catch(e=>{
+                console.log(e)
             })
     };
 
@@ -46,7 +49,7 @@ class VideosList extends Component{
 
     loadMore = () => {
         let end = this.state.end + this.state.amount;
-        this.request(this.state.end, end)
+        this.request(this.state.end + 1, end)
     };
 
     renderButton = () => {
@@ -57,7 +60,7 @@ class VideosList extends Component{
                 cta="Load More videos"
             />
             :
-            <Button type="linkTo" cta="More videos" linkTo="/videos"/>
+            <Button type="linkTo" cta="More videos soon" linkTo="/videos"/>
     };
 
     renderTitle = () => {

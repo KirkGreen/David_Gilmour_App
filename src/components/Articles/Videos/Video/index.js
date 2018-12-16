@@ -1,6 +1,5 @@
 import React,{Component} from 'react';
-import axios from 'axios';
-import { URL } from "../../../../config";
+import {firebaseDB, firebaseLooper, firebaseVideos} from "../../../../firebase";
 
 import "../../articles.css"
 import VideosRelated from "../../../widgets/VideosList/VideosRelated/videosRelated"
@@ -13,23 +12,31 @@ class VideoArticle extends Component {
     };
 
     componentWillMount(){
-        axios.get(`${URL}/videos?id=${this.props.match.params.id}`)
-            .then( response => {
+
+        firebaseDB.ref(`videos/${this.props.match.params.id}`).orderByChild('id').once('value')
+            .then((snapshot)=>{
+                let article = snapshot.val();
                 this.setState({
-                    article:response.data[0]
+                    article
                 });
                 this.getRelated()
+
             })
+
+
     }
 
     getRelated = () =>{
 
-        axios.get(`${URL}/videos`)
-            .then( response => {
+        firebaseVideos.orderByChild('id').limitToFirst(3).once('value')
+            .then((snapshot)=>{
+                const related = firebaseLooper(snapshot);
                 this.setState({
-                    related:response.data
+                    related
                 })
             })
+
+
     };
 
     render(){

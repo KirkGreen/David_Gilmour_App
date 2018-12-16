@@ -5,9 +5,9 @@ const VideoMain = () =>(
     <VideosList
         type="card"
         title={false}
-        loadmore={false}
+        loadmore={true}
         start={0}
-        amount={10}
+        amount={5}
 
     />
 );
