@@ -27,9 +27,9 @@ const firebaseLooper = (snapshot) => {
 };
 
 export {
-    firebase,
     firebaseDB,
     firebaseArticles,
     firebaseVideos,
-    firebaseLooper
+    firebaseLooper,
+    firebase
 }

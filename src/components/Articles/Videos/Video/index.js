@@ -41,7 +41,7 @@ class VideoArticle extends Component {
 
     render(){
         const article = this.state.article;
-        console.log(this.state.related);
+        // console.log(this.state.related);
 
         return(
             <div>
