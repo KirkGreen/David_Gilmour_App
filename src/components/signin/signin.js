@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import './signin.css'
 import FormFields from '../widgets/FormFields/formFields'
-// import { firebase } from "../../firebase";
 import { firebase } from "../../firebase";
 
 class SignIn extends Component {
@@ -59,7 +58,6 @@ class SignIn extends Component {
         }
         newElement.touched = element.blur;
         newFormdata[element.id] = newElement;
-
         this.setState({
             formData:newFormdata
         })

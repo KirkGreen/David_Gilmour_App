@@ -8,6 +8,8 @@ const header = (props) => {
         <PostData data={{date}}/>
     );
 
+
+
     return(
         <div>
             {postData(props.date)}

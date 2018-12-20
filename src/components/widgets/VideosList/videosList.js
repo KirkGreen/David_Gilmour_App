@@ -1,6 +1,6 @@
 import React,{ Component } from "react";
 import './videosList.css';
-import {firebaseVideos, firebaseLooper, firebaseArticles} from "../../../firebase";
+import {firebaseVideos, firebaseLooper} from "../../../firebase";
 
 import Button from "../Buttons/buttons";
 import VideosTemplate from './VideosTamplate'

@@ -81,13 +81,13 @@ class NewsList extends Component {
                     >
                         <Link to={`/articles/${item.id}`}>
                             <div className="flex_wrapper">
-                                <div className="left"
-                                     style={{background:`url('/images/person/${item.image}')`}}
-                                >
-                                    <div>
+                                {/*<div className="left"*/}
+                                     {/*style={{background:`url(${item.image})`}}*/}
+                                {/*>*/}
+                                    {/*<div>*/}
 
-                                    </div>
-                                </div>
+                                    {/*</div>*/}
+                                {/*</div>*/}
                                 <div className="right">
                                     <CardInfo
                                     date={item.date}
