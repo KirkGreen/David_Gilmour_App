@@ -2,6 +2,7 @@
   "name": "david_gilmour_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://grinev.live/demos/gilmour/",
   "dependencies": {
     "axios": "^0.18.0",
     "draft-js": "^0.10.4",
